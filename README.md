@@ -1,7 +1,7 @@
 # KukRuleSharp
 A productivity-focused rule DSL inspired by Korean natural language for C# and .NET
 
-|C# Code|KR# Code|Alias|사유|예시|매핑|확장여부|
+|C# Code|KR# Code|Alias|사<br>유|예<br>시|매<br>핑|확장<br>여부|
 |---|---|---|---|---|---|---|
 |function|국밥||||||
 |if|각||||||
