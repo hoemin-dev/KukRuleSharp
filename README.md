@@ -1,6 +1,6 @@
 # KukRuleSharp
-A productivity-focused rule DSL inspired by Korean natural language for C# and .NET
-
+phase-1 : A productivity-focused rule DSL inspired by Korean natural language for C# and .NET
+phase-2 : Dedicated Semi-IDE for KR# - Editor & Mapper
 |C# Code|KR# Code|Alias|사<br>유|예<br>시|매<br>핑|확장<br>여부|
 |---|---|---|---|---|---|---|
 |function|국밥||||||
